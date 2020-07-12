@@ -1,0 +1,7 @@
+html 
+
+    @media screen and (max-width: 500px) {
+        .nodule {
+            width: 300px;}
+    }
+        
